@@ -1,7 +1,7 @@
 # cloud
 example of cloud architecture using cloudformation
 
-the diagram of the architecture is show in cloud.png
+the diagram of the architecture is shown in cloud.png
 
 to create the deployment there are two stacks:
 

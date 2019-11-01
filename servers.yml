@@ -60,7 +60,7 @@ Resources:
       ImageId: ami-00aa4671cbf840d82
       SecurityGroups:
       - Ref: WebServerSecGroup
-      InstanceType: t3.small #t3.medium
+      InstanceType: t3.medium
       BlockDeviceMappings:
       - DeviceName: "/dev/sdk"
         Ebs:
